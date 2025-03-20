@@ -9,5 +9,5 @@ soma = A + B + C
 media = soma / 10
 #change 10 for the max grade
 
-print(f"MEDIA = {media:.1f}")
+print(f"MEDIA = {media:.5f}")
 #change .1f if you want more decimal
