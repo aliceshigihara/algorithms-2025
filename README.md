@@ -4,4 +4,4 @@ this repository was created for **algorithms' classes!**
   
   
   
-  here, you can find **python, C and beecrowd's chall.**
+  you can find my **python, C and beecrowd's submissions**
