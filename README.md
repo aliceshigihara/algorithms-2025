@@ -1,7 +1,1 @@
-this repository was created for **algorithms' classes!**
-  
-  
-  
-  
-  
-  you can find my **python, C and beecrowd's submissions**
+this is a repository for algorithms. find here python, c and beecrowd's submissions.
