@@ -1,5 +1,5 @@
 from mysplit import *
-
+#file on ifc's computer 02
 file = open("/home/ifc/Downloads/prog25-main/algorithms/amazon.csv", "r")
 if file:
     incendios = 0
