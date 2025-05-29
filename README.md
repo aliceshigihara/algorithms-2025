@@ -11,6 +11,6 @@ this is a repository for **algorithms** 💾
 
 <br>
 
-[!NOTE]
+> [!NOTE]
 if you have any questions, contact me:
 - aliceshigihara@gmail.com
