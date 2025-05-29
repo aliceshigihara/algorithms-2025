@@ -31,4 +31,8 @@ time.sleep(1)
 pyautogui.press('tab')
 time.sleep(1)
 
+pyautogui.write('',interval=0.1)
+time.sleep(1)
+pyautogui.press('enter')
+time.sleep(2)
 
