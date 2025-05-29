@@ -1,3 +1,5 @@
+# lê em que posição o ponteiro do mouse está
+
 import pyautogui, sys
 print('Press Ctrl-C to quit.')
 try:
