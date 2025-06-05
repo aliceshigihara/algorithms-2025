@@ -13,6 +13,8 @@ this is a repository for **algorithms** 💾
 
 **python** | all python's codes i did & learned in algoritms; </br>
 
+**pygame** | doing games with pygame <ins>*library*</ins>
+
 
 > [!NOTE]
 if you have any questions, contact me:

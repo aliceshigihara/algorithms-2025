@@ -18,7 +18,7 @@ while True:
             pygame.quit()
             raise SystemExit
 
-    # pintar a tela de roxo
+    # pintar a tela de azul
     screen.fill("blue")
 
     # atualizar a tela
