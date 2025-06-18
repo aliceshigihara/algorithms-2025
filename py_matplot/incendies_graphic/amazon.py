@@ -4,7 +4,7 @@ import numpy as np
 from libslinha import *
 
 
-file = open("/home/ifc/Área de trabalho/algorithms-2025/py_matplot/incendies_graphic/amazonutf.csv", "r")
+file = open("algorithms-2025/py_matplot/incendies_graphic/amazonutf.csv", "r")
 
 anosincendio = []
 numerosincendio = []
