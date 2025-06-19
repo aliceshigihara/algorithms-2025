@@ -1,10 +1,9 @@
 
 import matplotlib.pyplot as plt
-import numpy as np
 from libslinha import *
 
 
-file = open("algorithms-2025/py_matplot/incendies_graphic/amazonutf.csv", "r")
+file = open("amazonutf.csv", "r")
 
 anosincendio = []
 numerosincendio = []
