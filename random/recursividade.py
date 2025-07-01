@@ -13,9 +13,9 @@ def FuncRecursiva(t,v,i,f):
     if t == v[l]:
         return l
     elif t < v[l]:
-            return FuncRecursiva(t,v,i,l + 1)
+            return FuncRecursiva(t,v,i,l - 1)
     else:
-            return FuncRecursiva(t,v,l - 1,f)
+            return FuncRecursiva(t,v,l + 1,f)
 
 resultado = FuncRecursiva(t,v,i,f)
 
