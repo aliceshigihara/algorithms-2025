@@ -5,7 +5,9 @@ define (x) = 1
 
 mostra ('+' + ('-' * (l-2)) + '+')
 
-enquanto (x) for menor ou igual a (a-2)  #isso está escrito mais para python, como pode ver, fiz um arquivo retangulo.c mas foi utilizado for (para) ao invés de while.
+## isso está escrito mais para python, como pode ver, fiz um arquivo retangulo.c mas foi utilizado for (para) ao invés de while. ##
+
+enquanto (x) for menor ou igual a (a-2)  
   mostra ('|' + (" " * (l-2)) + '|')
   incrementa +1 em (x)
 
