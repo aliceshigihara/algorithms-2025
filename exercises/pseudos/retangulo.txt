@@ -1,0 +1,12 @@
+peça a largura (l) para o usuário
+peça a altura (a) para o usuário
+
+define (x) = 1
+
+mostra ('+' + ('-' * (l-2)) + '+')
+
+enquanto (x) for menor ou igual a (a-2)  #isso está escrito mais para python, como pode ver, fiz um arquivo retangulo.c mas foi utilizado for (para) ao invés de while.
+  mostra ('|' + (" " * (l-2)) + '|')
+  incrementa +1 em (x)
+
+mostra ('+' + ('-' * (l-2)) + '+')
