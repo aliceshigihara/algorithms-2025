@@ -7,14 +7,7 @@ this is a repository for **algorithms** 💾
 
 **c** | all c's codes i did & learned in algorithms;</br>
 
-**pyautogui on sigaa** | testing the <ins>*pyautogui library*</ins> with <ins>keyboard & time</ins> </br>
-
-**pyautogui test** | testing the <ins>*pyautogui library*</ins> with <ins>keyboard & time</ins>, going to youtube; </br>
-
 **python** | all python's codes i did & learned in algoritms; </br>
-
-**pygame** | doing games with pygame <ins>*library*</ins>
-
 
 > [!NOTE]
 if you have any questions, contact me:
