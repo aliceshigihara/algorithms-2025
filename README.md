@@ -1,7 +1,7 @@
 this is a repository for **algorithms** 💾
 
 
-**av1 ex** | you can find all questions/problems/exercises i did in class;</br>
+**exercises** | you can find all questions/problems/exercises i did in class;</br>
 
 **beecrowd** | all beecrowd's problems solved;</br>
 
